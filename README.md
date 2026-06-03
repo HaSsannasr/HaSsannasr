@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassan Mohamed Nasr</h1>
-<h3 align="left"> I am a passionate <span style="color: #007acc;">Junior DevOps & Cloud Engineer</span>. I specialize in automating infrastructure, building resilient CI/CD pipelines, and integrating a "Security-by-Design" philosophy into modern cloud-native environments.
-</h3>
+<div align="left">
+  <p style="font-size: 20px;">
+    I am a passionate <strong>Junior DevOps & Cloud Engineer</strong>. I specialize in automating infrastructure, building resilient CI/CD pipelines, and integrating a "Security-by-Design" philosophy into modern cloud-native environments.
+  </p>
+</div>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
