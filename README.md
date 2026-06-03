@@ -5,8 +5,6 @@
   </p>
 </div>
 
-### 🏆 My GitHub Stats
-[![HaSsannasr's Trophies](https://github-profile-trophy.vercel.app/?username=HaSsannasr&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 🌱 I’m currently learning **DevOps**
 
@@ -25,7 +23,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HaSsannasr&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HaSsannasr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![HaSsannasr](https://github-profile-trophy.vercel.app/?username=HaSsannasr&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
