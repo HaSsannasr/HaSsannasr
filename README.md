@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Mohamed Nasr</h1>
-<h3 align="left">
-I am a passionate <span style="color: #007acc;">Junior DevOps & Cloud Engineer</span>. I specialize in automating infrastructure, building resilient CI/CD pipelines, and integrating a "Security-by-Design" philosophy into modern cloud-native environments.
+<h3 align="left"> I am a passionate <span style="color: #007acc;">Junior DevOps & Cloud Engineer</span>. I specialize in automating infrastructure, building resilient CI/CD pipelines, and integrating a "Security-by-Design" philosophy into modern cloud-native environments.
 </h3>
 
 <p align="left">
