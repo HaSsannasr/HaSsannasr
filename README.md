@@ -1,30 +1,27 @@
-# Hi there, I'm Hassan Nasr! 👋
+# 💫 About Me:
+# Hi there, I'm Hassan Nasr! 👋<br><br>I am a passionate **Junior DevOps & Cloud Engineer**. I specialize in automating infrastructure, building resilient CI/CD pipelines, and integrating a "Security-by-Design" philosophy into modern cloud-native environments.<br><br>With a solid foundation in enterprise networking and systems administration, I bridge the gap between development, secure operations, and scalable infrastructure.<br><br>---<br><br>### 🚀 Core Focus & Competencies<br>* **Cloud & IaC:** Provisioning highly available, modular infrastructure using Terraform and Ansible.<br>* **Containerization & Orchestration:** Building, securing, and managing workloads with Docker and Kubernetes.<br>* **CI/CD & GitOps:** Engineering automated deployment pipelines utilizing GitHub Actions, ArgoCD, and Helm.<br>* **Security & Observability:** Enforcing infrastructure hardening (CCNA & HCIA-Security certified) and implementing comprehensive monitoring via Prometheus and Grafana.<br><br>---<br><br>### 🛠️ Tech Stack & Tools<br><br>* **Operating Systems & Virtualization:** Red Hat Enterprise Linux (RHEL), Windows Server, VMware<br>* **Cloud & Infrastructure as Code:** AWS, Terraform, Ansible<br>* **Containers & Orchestration:** Docker, Kubernetes (K8s), Helm, ArgoCD<br>* **CI/CD Automation:** GitHub Actions<br>* **Networking & Security:** CCNA, HCIA-Security, Firewalls, eNSP<br>* **Monitoring & Logs:** Prometheus, Grafana<br><br>---<br><br>### 📬 Connect with Me<br>* **LinkedIn:** [linkedin.com/in/hassanmohamednasr](https://linkedin.com/in/hassanmohamednasr)<br>* **Email:** [hassannasr355@gmail.com](mailto:hassannasr355@gmail.com)
 
-I am a passionate **Junior DevOps & Cloud Engineer**. I specialize in automating infrastructure, building resilient CI/CD pipelines, and integrating a "Security-by-Design" philosophy into modern cloud-native environments.
 
-With a solid foundation in enterprise networking and systems administration, I bridge the gap between development, secure operations, and scalable infrastructure.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassanmohamednasr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassannasr355@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=HaSsannasr&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=HaSsannasr&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HaSsannasr&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🚀 Core Focus & Competencies
-* **Cloud & IaC:** Provisioning highly available, modular infrastructure using Terraform and Ansible.
-* **Containerization & Orchestration:** Building, securing, and managing workloads with Docker and Kubernetes.
-* **CI/CD & GitOps:** Engineering automated deployment pipelines utilizing GitHub Actions, ArgoCD, and Helm.
-* **Security & Observability:** Enforcing infrastructure hardening (CCNA & HCIA-Security certified) and implementing comprehensive monitoring via Prometheus and Grafana.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HaSsannasr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🛠️ Tech Stack & Tools
-
-* **Operating Systems & Virtualization:** Red Hat Enterprise Linux (RHEL), Windows Server, VMware
-* **Cloud & Infrastructure as Code:** AWS, Terraform, Ansible
-* **Containers & Orchestration:** Docker, Kubernetes (K8s), Helm, ArgoCD
-* **CI/CD Automation:** GitHub Actions
-* **Networking & Security:** CCNA, HCIA-Security, Firewalls, eNSP
-* **Monitoring & Logs:** Prometheus, Grafana
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HaSsannasr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=HaSsannasr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📬 Connect with Me
-* **LinkedIn:** [linkedin.com/in/hassanmohamednasr](https://linkedin.com/in/hassanmohamednasr)
-* **Email:** [hassannasr355@gmail.com](mailto:hassannasr355@gmail.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
