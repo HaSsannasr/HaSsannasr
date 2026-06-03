@@ -131,20 +131,6 @@ This project focuses on real DevOps engineering practices, including infrastruct
 - Linux server and Kubernetes troubleshooting
 - Strong understanding of how cloud-native systems work end-to-end
 
-  
----
-
-## 📂 Other Projects
-
-### 🔥 DevOps Notes App
-
-Docker-based deployment project using Node.js, PostgreSQL, NGINX, GitHub Actions, and AWS EC2.
-
-
-### ☸️ Kubernetes Profile Manager App
-
-Kubernetes fundamentals project demonstrating Deployments, Services, ConfigMaps, Secrets, pod lifecycle behavior, and service discovery.
-
 
 ---
 
