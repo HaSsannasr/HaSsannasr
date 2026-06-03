@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Mohamed Nasr</h1>
-👋<br><br>I am a passionate **Junior DevOps & Cloud Engineer**. I specialize in automating infrastructure, building resilient CI/CD pipelines, and integrating a "Security-by-Design" philosophy into modern cloud-native environments.<br><br>With a solid foundation in enterprise networking and systems administration, I bridge the gap between development, secure operations, and scalable infrastructure.<br><br>---<br><br>### 📬 Connect with Me<br>* **LinkedIn:** [linkedin.com/in/hassanmohamednasr](https://linkedin.com/in/hassanmohamednasr)<br>* **Email:** [hassannasr355@gmail.com](mailto:hassannasr355@gmail.com)
+<br><br>I am a passionate **Junior DevOps & Cloud Engineer**. I specialize in automating infrastructure, building resilient CI/CD pipelines, and integrating a "Security-by-Design" philosophy into modern cloud-native environments.<br><br>With a solid foundation in enterprise networking and systems administration, I bridge the gap between development, secure operations, and scalable infrastructure.
 
+- 📫 How to reach me **hassannasr355@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
